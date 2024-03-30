@@ -1,0 +1,9 @@
+{
+    "basedir": "path/to/dir",
+    "clients": {
+        "10000001a": {
+            "id": "10000001a",
+            "log_path": "10000001a_log.json"
+        }
+    }
+}
